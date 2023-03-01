@@ -1,0 +1,9 @@
+.recipeImage {
+  width: 200px;
+}
+
+@media screen and (max-width: 500px) {
+  .recipeImage {
+    width: 100px;
+  }
+}
